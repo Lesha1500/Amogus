@@ -1,0 +1,32 @@
+<html>
+    <title>Амогус_Shop</title>
+    
+    <body>
+        <header style="background-color:pink;color:black">
+        <img src="file:///C:/Users/79046/Downloads/free-icon-teddy-4527581.png" height="50px"/ id="start">    
+        </header>
+        <main>Виды Амогусов</main>
+        
+        <h1>Амогусы</h1>
+        <h4>Чем питаются</h4>
+        <h4>Что важно знать</h4>
+        <img src="https://pixabay.com/ru/illustrations/%d1%81%d1%80%d0%b5%d0%b4%d0%b8-%d0%bd%d0%b0%d1%81-%d0%b8%d0%ba%d0%be%d0%bd%d0%b0-%d1%82%d0%be%d0%b2%d0%b0%d1%80%d0%b8%d1%89-%d0%bf%d0%be-%d0%ba%d0%be%d0%bc%d0%b0%d0%bd%d0%b4%d0%b5-6008615/"/>
+    <table>
+        <tr>
+            <td>Вид</td>
+            <td>Цена</td>
+        </tr>
+        <tr>
+            <td>Красный</td>
+            <td>2тыс.р</td>
+        </tr>
+        <tr>
+            <td>Синий</td>
+            <td>1тыс.р</td>
+        </tr>
+    </table>
+        <p>Амогусы очень популярные домашние животные, и за ними легко ухаживать</p>
+        <a href="https://yandex.ru/games/play/171138">Подробнее</a>
+        <footer>г.Санкт-Петербург ул.Фёдора Абрамова 15 +7(958)607-68-76</footer>
+    </body>
+</html>
